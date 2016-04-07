@@ -5,8 +5,25 @@ body {
 }
 
 h1 a {
-    font-size: 140px;
+    font-size: 3.5em;
     font-family: "Courier New";
     color: black;
+    text-align: left;
 }
 
+h2 {
+    text-align: center;
+    font-size: 6em;
+    font-family: "Courier New";
+    font-weight: bold;
+}
+
+.col-md-9 img {
+    
+}
+
+.col-md-9 p {
+    text-align: center;
+    font-size: 2.5em;
+    font-family: "Courier New";
+}
