@@ -1,0 +1,12 @@
+body {
+    background-image: url(IMG_6304_Fotor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 a {
+    font-size: 140px;
+    font-family: "Courier New";
+    color: black;
+}
+
